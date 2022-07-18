@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370266884116",
+    "project_id": "flutter-crypto-app-f4d23",
+    "storage_bucket": "flutter-crypto-app-f4d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370266884116:android:145da194cd73aaac3fff01",
+        "android_client_info": {
+          "package_name": "com.example.flutter_crypto_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370266884116-tpp8siounk5v1c5sk9l2alqhgo0dlp8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpPF7h6vfa7s3Lt5Sqa_GAO-XrwUDdiUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370266884116-tpp8siounk5v1c5sk9l2alqhgo0dlp8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
